@@ -1,0 +1,183 @@
+state,ac_no,ac_name,pc_no,pc_name,zone,district_no,district_name,mp,mla,current_seat_category
+Gujarat,1,Abdasa,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Pradyumansinh Mahipatsinh Jadeja,GEN
+Gujarat,2,Mandvi,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Virendrasinh Jadeja,GEN
+Gujarat,3,Bhuj,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Neema Acharya,GEN
+Gujarat,4,Anjar,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Vasanbhai Ahir,GEN
+Gujarat,5,Gandhidham,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Maltiben Maheshwari,SC
+Gujarat,6,Rapar,1,Kachchh,Saurashtra,106001,Kachchh,Vinodbhai Chavda,Santokben Aarethiya,GEN
+Gujarat,7,Vav,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Geniben Thakor,GEN
+Gujarat,8,Tharad,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Gulabsinh Pirabhai Rajput,GEN
+Gujarat,9,Dhanera,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Nathabhai Patel,GEN
+Gujarat,10,Danta,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Kantibhai Kharadi,ST
+Gujarat,11,Vadgam,3,Patan,North,106002,Banaskantha,Bharatsinhji Dabhi,Jignesh Mevani,SC
+Gujarat,12,Palanpur,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Mahesh Patel,GEN
+Gujarat,13,Deesa,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Shashikant Pandya,GEN
+Gujarat,14,Deodar,2,Banaskantha,North,106002,Banaskantha,Parbatbhai Patel,Shivabhai Bhuriya,GEN
+Gujarat,15,Kankrej,3,Patan,North,106002,Banaskantha,Bharatsinhji Dabhi,Kirtisinh Vaghela,GEN
+Gujarat,16,Radhanpur,3,Patan,North,106003,Patan,Bharatsinhji Dabhi,Raghubhai Merajbhai Desai,GEN
+Gujarat,17,Chanasma,3,Patan,North,106003,Patan,Bharatsinhji Dabhi,Dilipkumar Thakor,GEN
+Gujarat,18,Patan,3,Patan,North,106003,Patan,Bharatsinhji Dabhi,Kiritkumar Patel,GEN
+Gujarat,19,Siddhpur,3,Patan,North,106003,Patan,Bharatsinhji Dabhi,Chandanji Thakor,GEN
+Gujarat,20,Kheralu,3,Patan,North,106004,Mahesana,Bharatsinhji Dabhi,Ajmalji Valaji Thakor,GEN
+Gujarat,21,Unjha,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Ashaben Patel,GEN
+Gujarat,22,Visnagar,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Rushikesh Patel,GEN
+Gujarat,23,Becharaji,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Bharatji Thakor,GEN
+Gujarat,24,Kadi,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Punjabhai Solanki,SC
+Gujarat,25,Mahesana,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Nitin Patel,GEN
+Gujarat,26,Vijapur,4,Mahesana,North,106004,Mahesana,Shardaben Patel,Ramanbhai Patel,GEN
+Gujarat,27,Himatnagar,5,Sabarkantha,North,106005,Sabarkantha,Dipsinh Shankarsinh Rathod,Rajubhai Chavda,GEN
+Gujarat,28,Idar,5,Sabarkantha,North,106005,Sabarkantha,Dipsinh Shankarsinh Rathod,Hitu Kanodia,SC
+Gujarat,29,Khedbrahma,5,Sabarkantha,North,106005,Sabarkantha,Dipsinh Shankarsinh Rathod,Ashvinbhai Kotwal,ST
+Gujarat,30,Bhiloda,5,Sabarkantha,North,106006,Arvalli,Dipsinh Shankarsinh Rathod,Anil Joshiyara,ST
+Gujarat,31,Modasa,5,Sabarkantha,North,106006,Arvalli,Dipsinh Shankarsinh Rathod,Rajesndrasinh Thakor,GEN
+Gujarat,32,Bayad,5,Sabarkantha,North,106006,Arvalli,Dipsinh Shankarsinh Rathod,Jashubhai Shivabhai Patel,GEN
+Gujarat,33,Prantij,5,Sabarkantha,North,106005,Sabarkantha,Dipsinh Shankarsinh Rathod,Gajendrasinh Parmar,GEN
+Gujarat,34,Dehgam,7,Ahmedabad East,North,106007,Gandhinagar,Hasmukh Patel,Balrajsinh Chauhan,GEN
+Gujarat,35,Gandhinagar South,7,Ahmedabad East,North,106007,Gandhinagar,Hasmukh Patel,Shambhuji Thakor,GEN
+Gujarat,36,Gandhinagar North,6,Gandhinagar,North,106007,Gandhinagar,Amit Shah,C. J. Chavda,GEN
+Gujarat,37,Mansa,4,Mahesana,North,106007,Gandhinagar,Shardaben Patel,Surekhkumar Patel,GEN
+Gujarat,38,Kalol,6,Gandhinagar,North,106007,Gandhinagar,Amit Shah,Baldevji Thakor,GEN
+Gujarat,39,Viramgam,9,Surendranagar,North,106008,Ahmedabad,Mahendra Munjapara,Lakhabhai Bharwad,GEN
+Gujarat,40,Sanand,6,Gandhinagar,North,106008,Ahmedabad,Amit Shah,Kanubhai Patel,GEN
+Gujarat,41,Ghatlodia,6,Gandhinagar,North,106008,Ahmedabad,Amit Shah,Bhupendrabhai Patel,GEN
+Gujarat,42,Vejalpur,6,Gandhinagar,North,106008,Ahmedabad,Amit Shah,Kishor Chauhan,GEN
+Gujarat,43,Vatva,7,Ahmedabad East,North,106008,Ahmedabad,Hasmukh Patel,Pradipsinh Jadeja,GEN
+Gujarat,44,Ellisbridge,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Rakesh Shah,GEN
+Gujarat,45,Naranpura,6,Gandhinagar,North,106008,Ahmedabad,Amit Shah,Kaushik Patel,GEN
+Gujarat,46,Nikol,7,Ahmedabad East,North,106008,Ahmedabad,Hasmukh Patel,Jagdish Panchal,GEN
+Gujarat,47,Naroda,7,Ahmedabad East,North,106008,Ahmedabad,Hasmukh Patel,Balram Thawani,GEN
+Gujarat,48,Thakkarbapa Nagar,7,Ahmedabad East,North,106008,Ahmedabad,Hasmukh Patel,Vallabhbhai Kakadiya,GEN
+Gujarat,49,Bapunagar,7,Ahmedabad East,North,106008,Ahmedabad,Hasmukh Patel,Himmatsinh Patel,GEN
+Gujarat,50,Amraiwadi,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Jagdish Ishwarbhai Patel,GEN
+Gujarat,51,Dariapur,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Gyasuddin Shaikh,GEN
+Gujarat,52,Jamalpur - Khadia,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Imran Khedawala,GEN
+Gujarat,53,Maninagar,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Suresh Patel,GEN
+Gujarat,54,Danilimda,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Shailesh Parmar,SC
+Gujarat,55,Sabarmati,6,Gandhinagar,North,106008,Ahmedabad,Amit Shah,Arvindkumar Patel,GEN
+Gujarat,56,Asarwa,8,Ahmedabad West,North,106008,Ahmedabad,Kirit Premjibhai Solanki,Pradipbhai Parmar,SC
+Gujarat,57,Daskroi,17,Kheda,North,106008,Ahmedabad,Devusinh Jesingbhai Chauhan,Babu Jamna Patel,GEN
+Gujarat,58,Dholka,17,Kheda,North,106008,Ahmedabad,Devusinh Jesingbhai Chauhan,Bhupendrasinh Chudasama,GEN
+Gujarat,59,Dhandhuka,9,Surendranagar,North,106008,Ahmedabad,Mahendra Munjapara,Rajesh Gohil,GEN
+Gujarat,60,Dasada,9,Surendranagar,Saurashtra,106009,Surendranagar,Mahendra Munjapara,Naushadji Solanki,SC
+Gujarat,61,Limbdi,9,Surendranagar,Saurashtra,106009,Surendranagar,Mahendra Munjapara,Kiritsinh Rana,GEN
+Gujarat,62,Wadhwan,9,Surendranagar,Saurashtra,106009,Surendranagar,Mahendra Munjapara,Dhanjibhai Patel,GEN
+Gujarat,63,Chotila,9,Surendranagar,Saurashtra,106009,Surendranagar,Mahendra Munjapara,Rutvik Makwana,GEN
+Gujarat,64,Dhrangadhra,9,Surendranagar,Saurashtra,106009,Surendranagar,Mahendra Munjapara,Parsotam Sabariya,GEN
+Gujarat,65,Morbi,1,Kachchh,Saurashtra,106010,Morbi,Vinodbhai Chavda,Brijesh Merja,GEN
+Gujarat,66,Tankara,10,Rajkot,Saurashtra,106010,Morbi,Mohan Kundariya,Lalit Kagathra,GEN
+Gujarat,67,Wankaner,10,Rajkot,Saurashtra,106010,Morbi,Mohan Kundariya,Mohammad Javed Pirjada,GEN
+Gujarat,68,Rajkot East,10,Rajkot,Saurashtra,106011,Rajkot,Mohan Kundariya,Arvind Raiyani,GEN
+Gujarat,69,Rajkot West,10,Rajkot,Saurashtra,106011,Rajkot,Mohan Kundariya,Vijay Rupani,GEN
+Gujarat,70,Rajkot South,10,Rajkot,Saurashtra,106011,Rajkot,Mohan Kundariya,Govind Patel,GEN
+Gujarat,71,Rajkot Rural,10,Rajkot,Saurashtra,106011,Rajkot,Mohan Kundariya,Lakhabhai Sagathiya,SC
+Gujarat,72,Jasdan,10,Rajkot,Saurashtra,106011,Rajkot,Mohan Kundariya,Kunwarjibhai Mohanbhai Bavaliya,GEN
+Gujarat,73,Gondal,11,Porbandar,Saurashtra,106011,Rajkot,Rameshbhai Dhaduk,Geetaba Jayrajsinh Jadeja,GEN
+Gujarat,74,Jetpur,11,Porbandar,Saurashtra,106011,Rajkot,Rameshbhai Dhaduk,Jayesh Radadiya,GEN
+Gujarat,75,Dhoraji,11,Porbandar,Saurashtra,106011,Rajkot,Rameshbhai Dhaduk,Lalit Vasoya,GEN
+Gujarat,76,Kalavad,12,Jamnagar,Saurashtra,106012,Jamnagar,Poonamben Maadam,Pravin Musadiya,SC
+Gujarat,77,Jamnagar Rural,12,Jamnagar,Saurashtra,106012,Jamnagar,Poonamben Maadam,Raghavjibhai Patel,GEN
+Gujarat,78,Jamnagar North,12,Jamnagar,Saurashtra,106012,Jamnagar,Poonamben Maadam,Dharmendrasinh Jadeja (Hakubha),GEN
+Gujarat,79,Jamnagar South,12,Jamnagar,Saurashtra,106012,Jamnagar,Poonamben Maadam,R. C. Faldu,GEN
+Gujarat,80,Jamjodhpur,12,Jamnagar,Saurashtra,106012,Jamnagar,Poonamben Maadam,Chirag Kalariya,GEN
+Gujarat,81,Khambhalia,12,Jamnagar,Saurashtra,106013,Devbhumi Dwarka,Poonamben Maadam,Vikram Madam,GEN
+Gujarat,82,Dwarka,12,Jamnagar,Saurashtra,106013,Devbhumi Dwarka,Poonamben Maadam,Vacant,GEN
+Gujarat,83,Porbandar,11,Porbandar,Saurashtra,106014,Porbandar,Rameshbhai Dhaduk,Babu Bokhiria,GEN
+Gujarat,84,Kutiyana,11,Porbandar,Saurashtra,106014,Porbandar,Rameshbhai Dhaduk,Kandhal Jadeja,GEN
+Gujarat,85,Manavadar,11,Porbandar,Saurashtra,106015,Junagadh,Rameshbhai Dhaduk,Jawaharbhai Chavda,GEN
+Gujarat,86,Junagadh,13,Junagadh,Saurashtra,106015,Junagadh,Rajesh Chudasama,Bhikhabhai Joshi,GEN
+Gujarat,87,Visavadar,13,Junagadh,Saurashtra,106015,Junagadh,Rajesh Chudasama,Harshad Ribadiya,GEN
+Gujarat,88,Keshod,11,Porbandar,Saurashtra,106015,Junagadh,Rameshbhai Dhaduk,Devabhai Malam,GEN
+Gujarat,89,Mangrol,13,Junagadh,Saurashtra,106015,Junagadh,Rajesh Chudasama,Babubhai Vaja,GEN
+Gujarat,90,Somnath,13,Junagadh,Saurashtra,106016,Gir Somnath,Rajesh Chudasama,Vimalbhai Chudasama,GEN
+Gujarat,91,Talala,13,Junagadh,Saurashtra,106016,Gir Somnath,Rajesh Chudasama,Bhagvanbhai Barad,GEN
+Gujarat,92,Kodinar,13,Junagadh,Saurashtra,106016,Gir Somnath,Rajesh Chudasama,Mohanbhai Vala,SC
+Gujarat,93,Una,13,Junagadh,Saurashtra,106016,Gir Somnath,Rajesh Chudasama,Punjabhai Vansh,GEN
+Gujarat,94,Dhari,14,Amreli,Saurashtra,106017,Amreli,Naranbhai Kachhadia,J. V. Kakadiya,GEN
+Gujarat,95,Amreli,14,Amreli,Saurashtra,106017,Amreli,Naranbhai Kachhadia,Paresh Dhanani,GEN
+Gujarat,96,Lathi,14,Amreli,Saurashtra,106017,Amreli,Naranbhai Kachhadia,Virjibhai Thummar,GEN
+Gujarat,97,Savarkundla,14,Amreli,Saurashtra,106017,Amreli,Naranbhai Kachhadia,Pratap Dudhat,GEN
+Gujarat,98,Rajula,14,Amreli,Saurashtra,106017,Amreli,Naranbhai Kachhadia,Amarish Der,GEN
+Gujarat,99,Mahuva,14,Amreli,Saurashtra,106018,Bhavnagar,Naranbhai Kachhadia,Raghavbhai Makwana,GEN
+Gujarat,100,Talaja,15,Bhavnagar,Saurashtra,106018,Bhavnagar,Bharti Shiyal,Kanubhai Baraiya,GEN
+Gujarat,101,Gariadhar,14,Amreli,Saurashtra,106018,Bhavnagar,Naranbhai Kachhadia,Keshubhai Nakrani,GEN
+Gujarat,102,Palitana,15,Bhavnagar,Saurashtra,106018,Bhavnagar,Bharti Shiyal,Bhikhabhai Baraiya,GEN
+Gujarat,103,Bhavnagar Rural,15,Bhavnagar,Saurashtra,106018,Bhavnagar,Bharti Shiyal,Parshottam Solanki,GEN
+Gujarat,104,Bhavnagar East,15,Bhavnagar,Saurashtra,106018,Bhavnagar,Bharti Shiyal,Vibhavari Dave,GEN
+Gujarat,105,Bhavnagar West,15,Bhavnagar,Saurashtra,106018,Bhavnagar,Bharti Shiyal,Jitu Vaghani,GEN
+Gujarat,106,Gadhada,15,Bhavnagar,Saurashtra,106019,Botad,Bharti Shiyal,Atmaram Parmar,SC
+Gujarat,107,Botad,15,Bhavnagar,Saurashtra,106019,Botad,Bharti Shiyal,Saurabh Patel,GEN
+Gujarat,108,Khambhat,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Mayur Raval,GEN
+Gujarat,109,Borsad,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Rajendrasinh Parmar,GEN
+Gujarat,110,Anklav,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Amit Chavda,GEN
+Gujarat,111,Umreth,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Govind Parmar,GEN
+Gujarat,112,Anand,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Kantibhai Sodharparmar,GEN
+Gujarat,113,Petlad,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Niranjan Patel,GEN
+Gujarat,114,Sojitra,16,Anand,Central,106020,Anand,Mitesh Rameshbhai Patel,Punambhai Parmar,GEN
+Gujarat,115,Matar,17,Kheda,Central,106021,Kheda,Devusinh Jesingbhai Chauhan,Kesarisinh Solanki,GEN
+Gujarat,116,Nadiad,17,Kheda,Central,106021,Kheda,Devusinh Jesingbhai Chauhan,Pankaj Desai,GEN
+Gujarat,117,Mehmedabad,17,Kheda,Central,106021,Kheda,Devusinh Jesingbhai Chauhan,Arjunsinh Chauhan,GEN
+Gujarat,118,Mahudha,17,Kheda,Central,106021,Kheda,Devusinh Jesingbhai Chauhan,Indrajitsinh Parmar,GEN
+Gujarat,119,Thasra,18,Panchmahal,Central,106021,Kheda,Ratansinh Rathod,Kanitbhai Parmar,GEN
+Gujarat,120,Kapadvanj,17,Kheda,Central,106021,Kheda,Devusinh Jesingbhai Chauhan,Kalabhai Dabhi,GEN
+Gujarat,121,Balasinor,18,Panchmahal,Central,106022,Mahisagar,Ratansinh Rathod,Ajitsinh Chauhan,GEN
+Gujarat,122,Lunawada,18,Panchmahal,Central,106022,Mahisagar,Ratansinh Rathod,Jigneshkumar Sevak,GEN
+Gujarat,123,Santrampur,19,Dahod,Central,106022,Mahisagar,Jasvantsinh Sumanbhai Bhabhor,Kuberbhai Dindor,ST
+Gujarat,124,Shahera,18,Panchmahal,Central,106023,Panchmahal,Ratansinh Rathod,Jethabhai Ahir,GEN
+Gujarat,125,Morva Hadaf,18,Panchmahal,Central,106023,Panchmahal,Ratansinh Rathod,Suthar Nimishaben Manharsinh,ST
+Gujarat,126,Godhra,18,Panchmahal,Central,106023,Panchmahal,Ratansinh Rathod,C.K Raulji,GEN
+Gujarat,127,Kalol,18,Panchmahal,Central,106023,Panchmahal,Ratansinh Rathod,Sumanben Chauhan,GEN
+Gujarat,128,Halol,21,Chhota Udaipur,Central,106023,Panchmahal,Gitaben Rathva,Jaydrathsinhji Parmar,GEN
+Gujarat,129,Fatepura,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Rameshbhai Katara,ST
+Gujarat,130,Jhalod,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Bhavesh Katara,ST
+Gujarat,131,Limkheda,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Shaileshbhai Bhabhor,ST
+Gujarat,132,Dahod,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Vajesing Panada,ST
+Gujarat,133,Garbada,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Chandrikaben Bariya,ST
+Gujarat,134,Devgadbaria,19,Dahod,Central,106024,Dahod,Jasvantsinh Sumanbhai Bhabhor,Bachubhai Khabad,GEN
+Gujarat,135,Savli,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Ketan Inamdar,GEN
+Gujarat,136,Vaghodia,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Madhu Shrivastav,GEN
+Gujarat,137,Chhota Udaipur,21,Chhota Udaipur,Central,106026,Chhotaudepur,Gitaben Rathva,Mohan Rathwa,ST
+Gujarat,138,Jetpur,21,Chhota Udaipur,Central,106026,Chhotaudepur,Gitaben Rathva,Sukhrambhai Rathwa,ST
+Gujarat,139,Sankheda,21,Chhota Udaipur,Central,106026,Chhotaudepur,Gitaben Rathva,Abhesinh Tadvi,ST
+Gujarat,140,Dabhoi,21,Chhota Udaipur,Central,106025,Vadodara,Gitaben Rathva,Shailesh Mehta 'Sotta',GEN
+Gujarat,141,Vadodara City,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Manisha Vakil,SC
+Gujarat,142,Sayajigunj,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Jitendra Sukhadia,GEN
+Gujarat,143,Akota,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Seema Mohile,GEN
+Gujarat,144,Raopura,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Rajendra Trivedi,GEN
+Gujarat,145,Manjalpur,20,Vadodara,Central,106025,Vadodara,Ranjanben Dhananjay Bhatt,Yogesh Patel,GEN
+Gujarat,146,Padra,21,Chhota Udaipur,Central,106025,Vadodara,Gitaben Rathva,Jashpalsinh Thakor,GEN
+Gujarat,147,Karjan,22,Bharuch,Central,106025,Vadodara,Mansukhbhai Vasava,Akshaykumar I. Patel,GEN
+Gujarat,148,Nandod,21,Chhota Udaipur,South,106027,Narmada,Gitaben Rathva,Premsinhbhai Vasava,ST
+Gujarat,149,Dediyapada,22,Bharuch,South,106027,Narmada,Mansukhbhai Vasava,Maheshbhai Vasava,ST
+Gujarat,150,Jambusar,22,Bharuch,South,106028,Bharuch,Mansukhbhai Vasava,Sanjaybhai Solanki,GEN
+Gujarat,151,Vagra,22,Bharuch,South,106028,Bharuch,Mansukhbhai Vasava,Arunsinh Rana,GEN
+Gujarat,152,Jhagadia,22,Bharuch,South,106028,Bharuch,Mansukhbhai Vasava,Chhotubhai Vasava,GEN
+Gujarat,153,Bharuch,22,Bharuch,South,106028,Bharuch,Mansukhbhai Vasava,Dushyant Patel,GEN
+Gujarat,154,Ankleshwar,22,Bharuch,South,106028,Bharuch,Mansukhbhai Vasava,Ishwarsinh Patel,GEN
+Gujarat,155,Olpad,24,Surat,South,106029,Surat,Darshana Jardosh,Mukesh Patel,GEN
+Gujarat,156,Mangrol,23,Bardoli,South,106029,Surat,Parbhubhai Vasava,Ganpat Vasava,ST
+Gujarat,157,Mandvi,23,Bardoli,South,106029,Surat,Parbhubhai Vasava,Anandbhai Chaudhari,ST
+Gujarat,158,Kamrej,23,Bardoli,South,106029,Surat,Parbhubhai Vasava,V. D. Zalavadiya,GEN
+Gujarat,159,Surat East,24,Surat,South,106029,Surat,Darshana Jardosh,Arvind Rana,GEN
+Gujarat,160,Surat North,24,Surat,South,106029,Surat,Darshana Jardosh,Kantibhai Balar,GEN
+Gujarat,161,Varachha Road,24,Surat,South,106029,Surat,Darshana Jardosh,Kumarbhai Kanani,GEN
+Gujarat,162,Karanj,24,Surat,South,106029,Surat,Darshana Jardosh,Pravinbhai Ghoghari,GEN
+Gujarat,163,Limbayat,25,Navsari,South,106029,Surat,C. R. Patil,Sangita Patil,GEN
+Gujarat,164,Udhna,25,Navsari,South,106029,Surat,C. R. Patil,Vivek Patel,GEN
+Gujarat,165,Majura,25,Navsari,South,106029,Surat,C. R. Patil,Harsh Sanghavi,GEN
+Gujarat,166,Katargam,24,Surat,South,106029,Surat,Darshana Jardosh,Vinodbhai Moradiya,GEN
+Gujarat,167,Surat West,24,Surat,South,106029,Surat,Darshana Jardosh,Purnesh Modi,GEN
+Gujarat,168,Choryasi,25,Navsari,South,106029,Surat,C. R. Patil,Zankhana Patel,GEN
+Gujarat,169,Bardoli,23,Bardoli,South,106029,Surat,Parbhubhai Vasava,Ishwarbhai Parmar,SC
+Gujarat,170,Mahuva,23,Bardoli,South,106029,Surat,Parbhubhai Vasava,Mohanbhai Dhodia,ST
+Gujarat,171,Vyara,23,Bardoli,South,106030,Tapi,Parbhubhai Vasava,Punabhai Gamit,ST
+Gujarat,172,Nizar,23,Bardoli,South,106030,Tapi,Parbhubhai Vasava,Sunil Gamit,ST
+Gujarat,173,Dangs,26,Valsad,South,106031,Dangs,K C Patel,Vijaybhai R Patel,ST
+Gujarat,174,Jalalpore,25,Navsari,South,106032,Navsari,C. R. Patil,R. C. Patel,GEN
+Gujarat,175,Navsari,25,Navsari,South,106032,Navsari,C. R. Patil,Piyush Desai,GEN
+Gujarat,176,Gandevi,25,Navsari,South,106032,Navsari,C. R. Patil,Naresh Patel,ST
+Gujarat,177,Vansda,26,Valsad,South,106032,Navsari,K C Patel,Anantkumar Patel,ST
+Gujarat,178,Dharampur,26,Valsad,South,106033,Valsad,K C Patel,Arvind Patel,ST
+Gujarat,179,Valsad,26,Valsad,South,106033,Valsad,K C Patel,Bharat Patel,GEN
+Gujarat,180,Pardi,26,Valsad,South,106033,Valsad,K C Patel,Kanubhai Desai,GEN
+Gujarat,181,Kaprada,26,Valsad,South,106033,Valsad,K C Patel,Jitubhai H. Chaudhari,ST
+Gujarat,182,Umbergaon,26,Valsad,South,106033,Valsad,K C Patel,Ramanlal Patkar,ST
